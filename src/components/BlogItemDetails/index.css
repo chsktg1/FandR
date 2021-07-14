@@ -1,0 +1,11 @@
+/* Write your CSS code here */
+.detailedImg {
+  width: 100%;
+  max-height: 60vh;
+}
+.imgCont {
+  margin: 10px;
+}
+.avatar_url {
+  width: 45px;
+}

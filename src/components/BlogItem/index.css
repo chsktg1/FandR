@@ -1,0 +1,16 @@
+/* Write your CSS code here */
+.imgInTitle {
+  width: 420px;
+}
+.actBlog {
+  display: flex;
+  padding: 10px;
+  margin: 5px;
+  border: 1px solid black;
+}
+.imgCont {
+  margin-right: 5px;
+}
+.inHere {
+  width: 45px;
+}
